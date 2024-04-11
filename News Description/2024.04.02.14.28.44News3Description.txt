@@ -1,0 +1,13 @@
+LexisNexis Legal & Professional, a leading global provider of information and analytics, extended its more than a decade-long agreement with Cognizant for seven additional years. Cognizant will help LexisNexis expand its product engineering capabilities and next-gen AI legal research platform, Lexis+. Through this extended contract, LexisNexis is collaborating with Cognizant to accelerate feature releases to market and streamline operational efficiency through automation and cost optimization. 
+ 
+What services will Cognizant provide?
+Cognizant will provide cloud and digital engineering services to enhance customer experience on LexisNexis’ flagship legal research platform in the U.S. and Canada. These improvements are expected to significantly improve the platform’s search experience, helping LexisNexis’ customers to navigate legal content intuitively in addition to product features that aim to enhance the overall customer experience. Over the course of the agreement, Cognizant and LexisNexis will focus on modernizing legacy desktop and web applications, re-architecting data and redesigning the content fabrication pipeline, and providing innovative solutions in quality engineering.
+ 
+Why Cognizant?
+LexisNexis expanded its relationship with Cognizant due to the company’s proven track record as a long-trusted provider.
+ 
+"We value our longstanding collaboration with LexisNexis and are excited about our continued efforts to enhance the company's exceptional customer experience on complex information platforms," said Anurag Sinha, SVP and Head of Communications and Media, Americas, of Cognizant. "Cognizant has committed to investing approximately $1 billion over the next three years to bolster our generative AI (gen AI) capabilities and will leverage our trifecta of digital engineering, cloud engineering, and gen AI solutions to deliver advanced AI-powered natural language processing solutions to LexisNexis. Additionally, we will aim to create new capabilities around legal research, predictive analysis, semantic search, compliance monitoring, and continuous learning."
+ 
+Read the full announcement in the Cognizant Newsroom.
+ 
+See the news on LinkedIn and share with your network.

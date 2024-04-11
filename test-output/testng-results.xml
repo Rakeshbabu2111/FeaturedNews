@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T14:21:18 IST" name="Suite" finished-at="2024-04-04T14:27:26 IST" duration-ms="368198">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T14:21:18 IST" name="chrometest" finished-at="2024-04-04T14:27:26 IST" duration-ms="368198">
+      <class name="testCases.TestClass">
+        <test-method is-config="true" signature="driverConfig(java.lang.String)[pri:0, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:21:18 IST" name="driverConfig" finished-at="2024-04-04T14:21:38 IST" duration-ms="19696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverConfig -->
+        <test-method signature="clickOnUser()[pri:0, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:21:38 IST" name="clickOnUser" finished-at="2024-04-04T14:22:11 IST" duration-ms="32593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnUser -->
+        <test-method signature="verifyNewsDisplayed()[pri:1, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:22:11 IST" name="verifyNewsDisplayed" finished-at="2024-04-04T14:22:19 IST" duration-ms="7657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsDisplayed -->
+        <test-method signature="verifyHeaderAndTooltip()[pri:2, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:22:19 IST" name="verifyHeaderAndTooltip" finished-at="2024-04-04T14:22:19 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderAndTooltip -->
+        <test-method signature="validateNewsSlide1()[pri:3, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:22:20 IST" name="validateNewsSlide1" finished-at="2024-04-04T14:23:17 IST" duration-ms="57803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsSlide1 -->
+        <test-method signature="validateNewsSlide2()[pri:4, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:23:18 IST" name="validateNewsSlide2" finished-at="2024-04-04T14:24:20 IST" duration-ms="62479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsSlide2 -->
+        <test-method signature="validateNewsSlide3()[pri:5, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:24:21 IST" name="validateNewsSlide3" finished-at="2024-04-04T14:25:23 IST" duration-ms="62367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsSlide3 -->
+        <test-method signature="validateNewsSlide4()[pri:6, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:25:23 IST" name="validateNewsSlide4" finished-at="2024-04-04T14:26:25 IST" duration-ms="62214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsSlide4 -->
+        <test-method signature="validateNewsSlide5()[pri:7, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:26:26 IST" name="validateNewsSlide5" finished-at="2024-04-04T14:27:15 IST" duration-ms="49369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewsSlide5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestClass@24d09c1]" started-at="2024-04-04T14:27:15 IST" name="tearDown" finished-at="2024-04-04T14:27:26 IST" duration-ms="11100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestClass -->
+    </test> <!-- chrometest -->
+  </suite> <!-- Suite -->
+</testng-results>

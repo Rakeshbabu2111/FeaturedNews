@@ -1,0 +1,27 @@
+It’s been a big week for Cognizant. From well-known companies like Google to cutting-edge companies like NVIDIA, Cognizant is part of the conversation everywhere you turn.  
+ 
+Cognizant is advancing the application of generative AI (gen AI) technology with the NVIDIA BioNeMo platform to solve complex challenges of drug discovery in the life sciences industry, such as improving productivity in the development process and increasing the speed at which new, life-saving treatments can be brought to market. 
+ 
+“By collaborating with NVIDIA, Cognizant can open the path to realizing this vision safely, responsibly and cost-effectively for our life sciences clients.”  
+-Anna Elango, EVP, Cognizant’s Core Technologies & Insights 
+ 
+Cognizant collaborates with leading global firms in pharmaceuticals, biotech and medical devices, covering the entire life sciences value chain from R&D to digital health. This work contributes to the industry’s ability to enhance science, improve patient outcomes, and increase business value, by enabling a patient-centric approach and better interactions with healthcare professionals. Cognizant’s life sciences offerings support more than 120 global manufacturing lines and more than 18 million patients with medical device company products. Cognizant intends to pursue additional applications by collaborating with NVIDIA in areas such as manufacturing and automotive engineering, where gen AI has the potential to enhance productivity, optimize costs and bring innovation to market more quickly. 
+ 
+Read the full press release here. 
+Share with your network on LinkedIn. 
+ 
+Cognizant and Google Cloud announced an expansion of their partnership to enhance the software delivery lifecycle and accelerate developer productivity. 
+ 
+Cognizant will adopt Gemini for Google Cloud in two ways:  
+By training Cognizant associates to use Gemini for software development assistance 
+Integrating Gemini’s advanced capabilities within its internal operations and platforms.  
+ 
+Using Gemini for Google Cloud, Cognizant’s developers will be equipped to write, test, and deploy code faster and more effectively with the help of AI-powered tools, improving the reliability and cost efficiency of building and managing client applications. The potential impact of increased development productivity is underscored by findings from a recent Cognizant and Oxford Economics study, New World, New Work, which revealed generative AI could inject up to $1 trillion into the U.S. economy by 2032. 
+ 
+“Cognizant has committed to investing $1 billion in generative AI over three years because we believe it is a powerful tool to amplify human potential, and our partnership with Google Cloud is central to this commitment, and to realizing this vision.” 
+-Ravi Kumar S, CEO  
+ 
+In line with Cognizant’s plans to invest in deep AI-related competencies, the company will establish a Gemini Studio within each of its Cloud AI Innovation hubs in Bangalore, London, and Plano, Texas, to help enterprise customers ideate, architect, and scale AI solutions. Cognizant will also establish Gemini Centers of Excellence within its new dedicated Google Cloud delivery centers in Mexico and Romania, and it will continue its expansion in India to accelerate customer success with generative AI solutions. 
+ 
+Read the full press release.  
+Share with your networks on LinkedIn.  
